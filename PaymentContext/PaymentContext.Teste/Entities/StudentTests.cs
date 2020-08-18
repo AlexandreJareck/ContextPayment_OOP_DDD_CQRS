@@ -11,9 +11,9 @@ namespace PaymentContext.Teste
         public void AdicionarAssinatura()
         {
             var subscription = new Subscription(null);
-            var student = new Student("Alexandre", "Jareck", "12345678912", "alexandrejareck@gmail.com");
+            // var student = new Student("Alexandre", "Jareck", "12345678912", "alexandrejareck@gmail.com");
 
-            student.AddSubscription(subscription);
+            // student.AddSubscription(subscription);
         }
     }
 }
